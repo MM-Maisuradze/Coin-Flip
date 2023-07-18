@@ -1,0 +1,24 @@
+body{
+  margin:0;
+}
+.title{
+  text-align: center;
+  font-family: 'Handlee', cursive;
+}
+.main-div,
+.main-div1,
+.main-div2{
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heads{
+  margin-right: 15px;
+}
+.resetbt{
+  margin-right: 15px;
+}
+.message{
+  text-align: center;
+}
